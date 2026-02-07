@@ -1,14 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Bashetty Akhila 😊</h1>
 
-<h3 align="center">🚀 Aspiring Data Analyst | 📊 Data Science Enthusiast | 🤖 AI Explorer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Data+Analyst+Enthusiast+📊;Machine+Learning+Learner+🤖;AI+Explorer+🚀;Python+Developer+🐍;Future+Data+Scientist+🌟" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhila312004&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 </p>
 
 ---
 
 ## 👩‍💼 About Me 💫
+
+<p align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</p>
 
 - 🎓 **B.Tech in Computer Science & Engineering (Data Science)**  
   🏫 *Malla Reddy Engineering College for Women (2022 – 2026)*  
@@ -16,68 +22,74 @@
 
 - 💡 Passionate about **Data Analytics, Machine Learning & AI**
 - 🌱 Currently learning **Python 🐍, Data Science 📊 & AI 🤖**
-- 🤝 Open to collaborate on **Power BI, Python, ML & Data Projects**
-- 🧠 Strong foundation in **DSA, DBMS, and Problem Solving**
-- ✍️ Love exploring new technologies and building projects  
+- 🤝 Looking to collaborate on **Power BI, ML & Data Analytics Projects**
+- 🧠 Strong knowledge in **DSA, DBMS and Problem Solving**
+- ✍️ Love building projects and learning new technologies  
 - 📫 Reach me at: **📧 bashettyakhila32@gmail.com**
 
 ---
 
-## 💼 Professional Experience 🧑‍💻
+## 💼 Experience 🧑‍💻
+
 
 🔹 **AI with Green Technology – Virtual Internship 🌱🤖**  
 📌 *Edunet Foundation (4 Weeks)*  
-- 📚 Learned Artificial Intelligence concepts  
-- 💻 Worked on real-world AI applications  
-- 🔍 Explored emerging AI tools & technologies  
-- 🧪 Hands-on practical exposure  
+- 📚 Worked on Artificial Intelligence concepts  
+- 💻 Practical exposure to AI tools  
+- 🔍 Real world AI learning experience  
 
 ---
 
-## 🚀 Projects Portfolio 💡
+## 🚀 My Projects 💡
+
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
+</p>
 
 ### 🧠 Skin Lesion Classification using CNN DenseNet  
-- 🧬 Built a model using **pre-trained DenseNet CNN**
-- 🩺 Classified skin images as **benign or malignant**
-- 📊 Improved accuracy using deep learning techniques  
-- 🖼️ Worked with medical image datasets  
+- 🧬 Used **pre-trained DenseNet CNN**
+- 🩺 Classified skin lesions into categories  
+- 📊 Deep learning-based medical analysis  
 
 ### 🌦️ Weather Data Clustering using DBSCAN  
-- 🔍 Implemented **Density-Based Spatial Clustering**
-- 📍 Grouped data using temperature & humidity
-- 📈 Extracted meaningful patterns from raw data  
-- 🧪 Performed unsupervised machine learning  
+- 🔍 Applied unsupervised ML algorithm  
+- 📍 Clustered weather data intelligently  
+- 📈 Extracted patterns from raw data  
 
 ### 📊 Agriculture Productivity Analysis using Power BI  
-- 🌾 Analyzed productivity across Indian states  
-- 📉 Created interactive dashboards  
-- 🗺️ Visualized trends using Power BI  
-- 🎯 Delivered data-driven insights  
+- 🌾 Data visualization across Indian states  
+- 📉 Created dashboards and reports  
+- 🎯 Insightful analytics using Power BI  
 
 ---
 
-## 🛠 Technical Skills Toolbox 🧰
+## 🛠 Technical Skills 🧰
 
-- 👩‍💻 **Programming:** Python , Java  (Basics), C  
-- 🧠 **Core Concepts:** Data Structures & Algorithms, DBMS  
-- 📊 **Data Science:** Machine Learning, Data Analytics  
-- 🛢️ **Databases:** MySQL  
+<p align="center">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350"/>
+</p>
+
+- 👩‍💻 **Programming:** Python 🐍, Java ☕ (Basics), C  
+- 🧠 **Core:** Data Structures & Algorithms  
+- 📊 **Data Science:** ML, Data Analytics  
+- 🛢️ **Database:** MySQL  
 - 📈 **Visualization:** Power BI  
-- 🌐 **Web Basics:** HTML, CSS  
+- 🌐 **Web:** HTML, CSS  
 - 🔧 **Tools:** Git, GitHub  
 
 ---
 
-## 🏅 Certifications & Achievements 🥇
+## 🏅 Certifications 🥇
+
+
 
 - 📜 Cambridge English Certification  
--  Cisco Certifications in **C & Python**  
-- ☁️ Oracle Cloud Infrastructure – **Generative AI Professional**  
-- 🎖️ Multiple technical course completions  
+- 🐍 Cisco Certifications in **C & Python**  
+- ☁️ Oracle Cloud Infrastructure – **Generative AI Professional**
 
 ---
 
-## 🌍 Languages I Know 🗣️
+## 🌍 Languages 🗣️
 
 - 🇬🇧 English  
 - 🇮🇳 Telugu  
@@ -85,28 +97,30 @@
 
 ---
 
-## 🎯 Hobbies & Interests 🎶
+## 🎯 Interests 🎶
 
-- 🎧 Listening to Music  
-- 🧘 Practicing Yoga  
-- 📖 Reading & Spiritual Talks  
-- 💻 Exploring New Technologies  
+
+
+- 🎧 Music  
+- 🧘 Yoga  
+- 📖 Spiritual Learning  
+- 💻 Exploring Technologies  
 
 ---
 
-## 🔗 Let’s Connect 🤝
+## 🔗 Connect With Me 🤝
 
-<p align="left">
-<a href="https://linkedin.com/in/bashetty-akhila-82b221300" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/bashetty-akhila-82b221300">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
-<a href="https://github.com/Akhila312004" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+<a href="https://github.com/Akhila312004">
+<img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Analytics 📈
+## 📊 GitHub Stats 📈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhila312004&show_icons=true&theme=tokyonight" />
@@ -118,5 +132,10 @@
 
 ---
 
-### ✨ “Learning Today – Leading Tomorrow!” 🌟  
+<p align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
+
+### ✨ “Learning Today – Leading Tomorrow!” 🌟
+  
 
